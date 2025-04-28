@@ -1,0 +1,10 @@
+
+<suite name="Youtube Test Suite">
+    <test name="Youtube Test Cases">
+        <classes>
+            <class name="automate.AddPostTest"/>
+            <class name="automate.SubscribeTest"/>
+            <class name="automate.ShortsTest"/>
+        </classes>
+    </test>
+</suite>
